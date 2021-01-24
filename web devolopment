@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+<meta charset="utf-8">
+<title>shivakishor</title>
+</head>
+
+<body>
+  <img src="https://lh3.googleusercontent.com/proxy/UX8k6Mt37zY66LxIncb7HZifoIyLeiHwm4NRXP0e-ztpryToID_66ruTU8EyA4sP9LA5h3ahBdIIO1XzqLCutRSVdi371t6vHbTFcL9GAxhRKqtRqnRU2kIym13nrytyzdYBT44" alt="shiva kishor profile picture">
+  <h1>shiva kishor</h1>
+  <p><em>Fond of<strong><a href=" https://www.facebook.com/cricketcomau"></a>computer science</strong>.</em></p>
+  <p>I am pursuing computer science  engineering in lovely professional university. i have a specilisation of data science will complete in 2024.
+  thank you.I am here to learn you the machine learning</p>
+<hr>
+<h3>books and teaching</h3>
+<ul>
+  <li>the complete machine learning</li>
+  <li>the complete sql bootcamp</li>
+</ul>
+<h3>my Hobbies</h3>
+<ol>
+<li>watching news</li>
+<li>playing chess</li>
+<li>computing</li>
+<h3>work experience</h3>
+<table cellspacing = "10">
+<thead>
+  <tr>
+    <th>dates</th>
+    <th>work</th>
+  </tr>
+
+</thead>
+<tbody>
+  <tr>
+    <td>2010-2013</td>
+    <td>web devoloper</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>5 star in hackarank</td>
+  </tr>
+</tbody>
+<tfoot>
+
+</tfoot>
+<table>
+  <tr>
+    <td>2010-2013</td>
+    <td>web devoloper</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>5 star in hackarank</td>
+  </tr>
+
+</table>
+<h3>skills</h3>
+<table cellspacing = "10">
+<tr>
+  <td>c</td>
+  <td>⭐⭐⭐</td>
+  <tr>
+  <td>c++</td>
+  <td>⭐</td>
+  </tr>
+  <tr>
+  <td>Java</td>
+  <td>⭐</td>
+</tr>
+</table>
+</ol>
+</body>
+
+</html>
